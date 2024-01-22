@@ -1,0 +1,23 @@
+#drum-machine{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+
+
+}
+
+#display, h1{
+    text-align: center;
+}
+
+body{
+    background-color: blanchedalmond ;
+}
+
+.drum-pad{
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+}
